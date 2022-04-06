@@ -1,0 +1,4 @@
+WORD=1
+VAR=2
+NEWLINE=3
+WS=4

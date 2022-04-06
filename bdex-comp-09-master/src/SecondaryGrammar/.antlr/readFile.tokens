@@ -1,0 +1,14 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+WORD=6
+VAR=7
+NEWLINE=8
+WS=9
+'READ'=1
+'ASSIGN TO'=2
+'EXPORT'=3
+'TO'=4
+'.csv'=5
